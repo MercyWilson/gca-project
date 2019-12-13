@@ -1,0 +1,170 @@
+/* this is necessary for the javascript, copy from here*/
+header {
+    background-color: #6E369B;
+    text-align: center;
+    height: 60px;
+}
+.navbar-change{
+    background-color:   #6E369B;
+    text-align: center;
+    padding-left: 0;
+}
+
+.navbar-change a {
+    border-bottom: 0.5px solid   #6E369B;
+    color: white;
+}
+
+.navbar-change >.collapse{
+    width: 20px;
+}
+
+/* this is necessary for the javascript  end*/
+
+/* This applies to all elements on the website */
+*{
+    font-family: 'Open Sans', serif, sans-serif;
+}
+/* end */
+#nav {
+    margin: 5em 0 5em 0;
+    padding: 0;
+}
+ .nav-link {
+     margin: ;
+     padding: ;
+ }
+.navbar{
+    background-color:  #6E369B;
+    height: 40px;
+}
+
+ul, li, a.nav-link{
+    color: white;
+    font-size: 16px;
+    padding-left: 5px;
+    font-weight: bold;
+}
+
+ul, li, a.nav-link:hover{
+    color: goldenrod;
+}
+
+.logo img{
+    width: 100px; 
+    height: 20px;
+}
+
+#navbar-btn{
+    background-color:goldenrod;
+    color:black;
+    font-size: 12px;
+    font-weight: bold;
+    border-radius: 5px;
+    height: 25px;
+    border: 1px white;
+}
+
+#navbar-btn:hover{
+    color: goldenrod;
+    background-color: white;
+}
+/*background image design*/
+.background_image {
+    text-decoration-color: blueviolet;   
+   }
+   .card-img {
+       height: 570px;
+   }
+   .card-text {
+       color: #6E369B;
+       text-align: center;
+       font-weight: bolder;
+   }
+
+   .card-title {
+       color: black;
+   }
+
+   .card-img-overlay {
+       margin-top: 6em;
+   }
+   
+   .card-image-overlay {
+       position: absolute;
+       top: 1;
+       right: 0;
+       bottom: 1;
+       left: 0;
+       height: 50;
+    }
+
+
+.span4 img {
+    margin-right: 10px;
+}
+.span4 .img-left {
+    float: left;
+}
+.span4 .img-right {
+    float: right;
+}
+/*styling of product cards*/
+card-body p {
+    margin-bottom: 0px;
+}
+.card-body p span {
+    text-decoration: underline;
+    color: magenta;
+}
+.card{
+    transition: all 0.7s;
+}
+.image {
+    width: 100%;
+    max-height: 350px;
+
+}
+.image img{
+    width: 255px;
+    
+}
+
+/*form goes here*/
+.form-body {
+    width: 70%;
+    max-width: 500px;
+    margin: 4em 0 0 27em;
+    background: #6E369B;
+}
+
+form {
+    padding: 3em;
+    color: white;
+    margin: 0 0 2em 5em;
+}
+
+input {
+    padding: 0.4em 1em 0.4em 1em;
+    border-radius: 10px;
+}
+
+input#register {
+    margin-top: 1.1em;
+    background: goldenrod;
+}
+
+
+
+
+/*styling of footer*/
+footer{
+    background-color: #6E369B;
+    height: 50px;
+}
+#footer-text{
+    color:goldenrod; 
+    font-weight: 100; 
+    font-family: monospace;
+    padding-top: 7px;
+}

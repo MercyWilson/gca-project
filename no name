@@ -1,0 +1,103 @@
+<div class="col-md-4 col-lg-4">
+                <img class="image" src="image/finlyst.jpg">
+                <div class="card">
+                    <div class="card-header">
+                        <h2> <a href="finaccounts.html">
+                                Financial Accounts
+                            </a>
+                        </h2>
+                    </div>
+                    <div class="card rgb(35, 11, 58);
+                    
+
+.bg-image{
+    background-image: linear-gradient(
+        rgba(0, 0, 0, 0.9),
+        rgba(0, 0, 0, 0.9)
+    ),
+    url(images/bg.png);
+    color: white; 
+}
+
+
+
+
+css for contact us and faq
+.bg-image{
+    background-image: linear-gradient(
+        rgba(0, 0, 0, 0.9),
+        rgba(0, 0, 0, 0.9)
+    ),
+    url(images/bg.png);
+    color: white; 
+}
+
+#contact-card{
+    background-color: #EC268F;
+    color: white;
+    border-radius: 15px;
+    margin: 50px 0 50px 0;
+}
+
+.bold{
+    font-weight: 900;
+    text-decoration: underline;
+}
+
+.bold-gca{
+    font-weight: 900;
+}
+#contact-form{
+    margin-top: 30px; 
+}
+
+#inner-contact{
+    padding:10px;
+}
+
+.botin{
+    color: white;
+    background-color: #EC268F;
+    border-radius: 15px;
+    border: 1px #EC268F solid;
+}
+
+.card-image{
+    background-repeat: no-repeat;
+    background: linear-gradient(#00000094,#00000094),
+    url(images/bg.png);
+    background-size: cover;
+}
+
+.card-header a{
+    text-decoration: none;
+}
+
+#acc-heading{
+    background-color: rgb(182, 35, 113);
+    color: white;
+}
+
+#acc-body{
+    margin: 7px 5px 7px 5px;
+    padding: 7px 5px 7px 5px;
+    font-size: 18px;
+}
+
+.faq-link a{
+    text-decoration: none;
+    color: #EC268F;
+    font-weight: 600;
+}
+
+footer{
+    background-color: purple;
+    height: 50px;
+}
+#footer-text{
+    color:goldenrod; 
+    font-weight: 100; 
+    font-family: monospace;
+    padding-top: 7px;
+
+}
